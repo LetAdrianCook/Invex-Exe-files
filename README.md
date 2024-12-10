@@ -1,7 +1,9 @@
 For Invex Folder (Local DB)
 open the folder --> debug folder --> run Invex.msi
-db name = invex
+Must have xampp installed
+database name = invex
 import the invex.sql
+(root=user, password=)
 
 For Invex-Online
 open the folder --> debug folder --> run Invex-Online.msi
