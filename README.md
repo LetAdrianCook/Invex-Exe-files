@@ -1,6 +1,6 @@
 **For Invex-Online**  
 open the folder --> debug folder --> run Invex-Online.msi  
-(Note: Must have internet connection)  
+(Note: Must have internet connection, expect more loading time when logging in as admin due to free hosting database limitation)  
 
 **For Invex (Local DB)**  
 open the folder --> debug folder --> run Invex.msi  
