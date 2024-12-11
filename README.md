@@ -1,3 +1,5 @@
+Recommended Screen Size: 1366x768 : if your size is 1920x1080 set screen scale to 125% before u open the application  
+
 **For Invex-Online**  
 open the folder --> debug folder --> run Invex-Online.msi  
 (Note: Must have internet connection, expect more loading time when logging in as admin due to free hosting database limitation)  
